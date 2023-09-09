@@ -1,0 +1,12 @@
+[ticket]
+# white balls
+numbers = 6,13,19,34,41
+# red ball
+powerball = 23
+# did you buy PowerPlay? true or false
+powerplay = true
+# how many draws is the ticket good for?
+draws = 10
+# what is the purchase date of the ticket (YYYY-MM-DD)?
+purchased = 2021-10-01
+
